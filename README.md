@@ -36,7 +36,7 @@ Open your terminal. Go to your local directory. Execute/run the helloworld.js to
     
 Step 5 
 
-Check out our output.
+Check out your output.
 
     Server running at http://127.0.0.1:8081/
     
