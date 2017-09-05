@@ -17,8 +17,7 @@ Create one folder on your local directory and install npm using terminal command
 
 Step 3
 
-Create helloworld.js file in your local folder/directory. Copy given code from bellow and paste in your file.
-
+Create helloworld.js file in your local folder/directory paste the bellow code on this file.
     var http = require("http");
    
     http.createServer(function (request, response) {
@@ -30,9 +29,9 @@ Create helloworld.js file in your local folder/directory. Copy given code from b
 
 Step 4
 
-Open your terminal. Go to your local directory. Execute/run the helloworld.js to start the server as follows 
+Open your terminal. Go to your local directory path. Execute/run the helloworld.js to start the server as follows 
 
-    node main.js
+    node helloworld.js
     
 Step 5 
 
